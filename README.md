@@ -5,4 +5,5 @@ QGIS Tool to calculate some Sentinel-1 Spectral Indices, namely:
 4. Radar Forest Degradation Index(RFDI)
 5. Normalized Difference Polarization Index(NDPol)
 6. Dual-polarized Radar Vegetation Index(DpRVI)
+
 This tool uses Sentinel-1 RTC data
