@@ -6,6 +6,8 @@ QGIS Tool to calculate some Sentinel-1 Spectral Indices, namely:
 5. Normalized Difference Polarization Index(NDPol)
 6. Dual-polarized Radar Vegetation Index(DpRVI)
 
+In addition, this tool also has additional capabilities in the form of Speckle Filtering, Mean Shift Filtering, and Statistics.  Speckle Filtering and Mean Shift Filtering are used to reduce noise in the data. Meanwhile, the Statistics feature is used to calculate several statistical parameters, including the mean value, minimum value, maximum value, range, and standard deviation.
+
 This tool uses Sentinel-1 RTC data which can be downloaded from ESA Copernicus.
 
 This tool was developed by Mulkal, S.T., M.Sc. 
