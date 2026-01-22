@@ -7,3 +7,6 @@ QGIS Tool to calculate some Sentinel-1 Spectral Indices, namely:
 6. Dual-polarized Radar Vegetation Index(DpRVI)
 
 This tool uses Sentinel-1 RTC data
+
+This tool was developed by Mulkal, S.T., M.Sc. 
+Mining EngineeringDepartment. Syiah Kuala University Banda Aceh
