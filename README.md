@@ -10,5 +10,5 @@ In addition, this tool also has additional capabilities in the form of Speckle F
 
 This tool uses Sentinel-1 RTC data which can be downloaded from ESA Copernicus.
 
-This tool was developed by Mulkal, S.T., M.Sc. 
+Developed by Mulkal, S.T., M.Sc. 
 Mining EngineeringDepartment. Syiah Kuala University Banda Aceh
