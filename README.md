@@ -1,4 +1,4 @@
-The QGIS tool for calculating spectral radar index values was developed to compute spectral index values using radar data, particularly Sentinel-1 Radiometrically Terrain Corrected (RTC) data. The tool calculate some Sentinel-1 Spectral Indices, namely:
+The QGIS tool for calculating spectral radar index values was developed to compute spectral index values using radar data, particularly Sentinel-1 Radiometrically Terrain Corrected (RTC) data. The tool calculate some Radar Spectral Indices, namely:
 1. Radar Vegetation Index(RVI)
 2. Polarization Ratio (PR)
 3. Sentinel-1 Dual-Polarized Water Index (SDWI)
